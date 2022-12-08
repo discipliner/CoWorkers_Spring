@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <typeAliases>
+        <typeAlias alias="boardDTO" type="com.crunch.domain.BoardDTO"/>
+        <typeAlias alias="wdto" type="com.crunch.domain.WorkDTO"/>
+        <typeAlias alias="userInfoDTO" type="com.crunch.domain.UserInfoDTO"/>
+    </typeAliases>
+</configuration>
